@@ -1,0 +1,23 @@
+{
+  "name": "18-do-you-even-lift",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "watch": "nodemon server.js",
+    "seed": "node seeders/seed.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alicedebo/18-do-you-even-lift.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alicedebo/18-do-you-even-lift/issues"
+  },
+  "homepage": "https://github.com/alicedebo/18-do-you-even-lift#readme"
+}
