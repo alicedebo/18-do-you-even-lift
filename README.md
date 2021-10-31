@@ -11,4 +11,4 @@ When we create a new workout we are taken to the page above. Here you can select
 Third and most importantly, is where you will track the progress you have made. This will be displayed on the dashboard, where you can track your progress and overall feel great about it!
 ### Ready?
 Are you ready to use "Do you even lift?" Of course you are! Here is the link to try it out.<br>
-[Do-You-Even-Lift]()
+[Do-You-Even-Lift](https://safe-castle-54737.herokuapp.com/)
